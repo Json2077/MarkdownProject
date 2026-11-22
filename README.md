@@ -3,6 +3,7 @@ Exercici git + github.
 [Git doc](https://git-scm.com/doc)
 ## Table of Contents.
 * Introduction
+>"I broke the goddamn wheel." - Arthur Morgan
 
 ![PROJEC LOGO](img/logo.jpg)
 * Features
