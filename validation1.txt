@@ -1,0 +1,81 @@
+commit 3b0a1dd5c35e33a96a7e1304c88f900a88c70bcc
+Author: Jason Berroa <jeyberdav@iespoblenou.org>
+Date:   Sun Nov 22 13:41:45 2026 +0100
+
+    Update intro in README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 039a1c159c842520233a773bacae571232ba808a
+Author: Jason Berroa <jeyberdav@iespoblenou.org>
+Date:   Sun Nov 22 13:09:38 2026 +0100
+
+    Merge add license branch into main
+
+ LICENSE.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 3881e854df5c4a08994f5173e8fd576ebdc1b835
+Author: Jason Berroa <jeyberdav@iespoblenou.org>
+Date:   Sun Nov 22 12:58:31 2026 +0100
+
+    enhance README with formatting
+
+ README.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 06c909eb40d742770b03cf4e05b78464342417ea
+Author: Jason Berroa <jeyberdav@iespoblenou.org>
+Date:   Sun Nov 22 12:48:55 2026 +0100
+
+    add feature list table to README
+
+ README.md | 19 ++++++++++++++-----
+ 1 file changed, 14 insertions(+), 5 deletions(-)
+
+commit 4c9e37e5953506a38439c0b1080cc284faf0681d
+Author: Jason Berroa <jeyberdav@iespoblenou.org>
+Date:   Sun Nov 22 12:42:19 2026 +0100
+
+    add project logo to README
+
+ README.md    |   2 ++
+ img/logo.jpg | Bin 0 -> 79397 bytes
+ 2 files changed, 2 insertions(+)
+
+commit e1fbc848a45347620a65983d176eced6ba705377
+Author: Jason Berroa <jeyberdav@iespoblenou.org>
+Date:   Sun Nov 22 12:32:55 2026 +0100
+
+    add hyperlinks to README
+
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 52d596e06b675c8b3f99a6313385bb4a09b58ede
+Author: Jason Berroa <jeyberdav@iespoblenou.org>
+Date:   Sun Nov 22 12:27:24 2026 +0100
+
+    [200~Add Table of Contents to
+
+ README.md | 10 ++++++++--
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+
+commit a406fea037c012a693aa0ad70346a952a283f5c3
+Author: Jason Berroa <jeyberdav@iespoblenou.org>
+Date:   Sun Nov 22 12:12:29 2026 +0100
+
+    add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit da2be8ecfdc4ec8df176d174b64d5d075cef82f2
+Author: Jason Berroa <jeyberdav@iespoblenou.org>
+Date:   Sun Nov 22 12:03:26 2026 +0100
+
+    initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
